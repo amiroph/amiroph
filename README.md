@@ -114,7 +114,7 @@ const amanuel = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amiroph&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5C3&fire=00E5C3&currStreakLabel=00E5C3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amiroph&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5C3&fire=00E5C3&currStreakLabel=00E5C3&dates=FFFFFF&sideLabels=00E5C3)
 
 </div>
 
